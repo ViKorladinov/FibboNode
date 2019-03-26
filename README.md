@@ -1,2 +1,0 @@
-# FibboNode
-Created with CodeSandbox
